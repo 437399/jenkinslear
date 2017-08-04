@@ -1,2 +1,6 @@
 *.lxi
 *.pxi
+.classpath
+.project
+.settings/
+target/*
