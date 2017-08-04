@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Lenovo-PC" name="com.selenium.demo.test01" tests="1" failures="0" timestamp="2 Aug 2017 01:01:09 GMT" time="0.096" errors="0">
+  <testcase name="launch" time="0.049" classname="com.selenium.demo.test01"/>
+</testsuite>
